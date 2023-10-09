@@ -13,4 +13,12 @@ GaryClarke [complete-phpdev-lesson-files](https://github.com/GaryClarke/complete
 1. Что такое объекты?
 2. Как мы их создаём?
 
-[Читать в chapter1](chapter1/README.md)
+[README.Creating-objects.md](chapter1%2FREADME.Creating-objects.md)
+
+### 1.4. Methods
+
+В предыдущем уроке мы рассмотрели, что такое объекты и установили, что они могут содержать фрагменты данных, называемыми **свойствами/атрибутами**.
+В этом уроке мы рассмотрим функциональность объекта, когда к нему добавляются функции, которые мы называем **методами**.
+И это то, чем мы собираемся заниматься на этом уроке.
+
+[README.Defining-methods.md](chapter1%2FREADME.Defining-methods.md)
