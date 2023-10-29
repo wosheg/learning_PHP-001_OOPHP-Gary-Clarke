@@ -29,16 +29,16 @@ GaryClarke [complete-phpdev-lesson-files](https://github.com/GaryClarke/complete
 
 Давайте рассмотрим музыкальный сервис, который позволяет создавать плэйлисты для прослушивания отобранной музыки.
 
-И угадайте что? Плэйлист - это объект.
-
-**Playlist is a object**
-
-В плэйлисте содержатся песни, которые тоже являются объектами.
-
-**Song object**
-
-И мы можем как добавлять новые песни в плэйлист, так и удалять их.
-
-Давайте попробуем создать объект песни и добавить его в объект списка воспроизведения.
-
 [README.Object-interaction.md](chapter1%2FREADME.Object-interaction.md)
+
+## 2. Object Oriented Programming Principles and Concepts Part 1
+
+### 2.1. Class Constructors
+
+На этом занятии мы рассмотрим специальный метод,
+называемый конструктором.
+
+И вот что я решил, с этого момента нужно хранить классы
+и логику в отдельных файлах, так как это хорошая практика программирования.
+
+[README.Constructors.md](chapter2%2FREADME.Constructors.md)
